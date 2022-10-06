@@ -14,12 +14,13 @@ I've implemented the OOP principles, using classes, inheritence and polymorphism
 For optimal game experience, set your console resolution to 25X80.
 
 Enjoy!
-
+____________________________________________________________________________________________________________________________________________________
 Technologies
 
 C++ Programming language
 Visual Studio 2019 on Windows 10
 
+____________________________________________________________________________________________________________________________________________________
 Rules
 
 The rules are short and simple.
